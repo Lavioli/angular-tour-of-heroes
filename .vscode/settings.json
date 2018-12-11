@@ -1,0 +1,8 @@
+{
+  "files.autoSave": "onFocusChange",
+  "files.hotExit": "onExitAndWindowClose",
+  "editor.wordWrap": "on",
+  "typescriptHero.imports.multiLineTrailingComma": false,
+  "typescriptHero.imports.multiLineWrapThreshold": 100,
+  "typescriptHero.imports.organizeOnSave": true
+}
